@@ -32,7 +32,7 @@ The dataset used for this project is the **Urban Land Cover** dataset from the [
 
 - **Python 3.10**
 - **Jupyter Notebook**
-- **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, 'seaborn'
+- **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `seaborn`
 
 ## 🚀 Getting Started
 

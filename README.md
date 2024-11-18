@@ -44,6 +44,8 @@ To run this project, you need Python installed along with the required libraries
 pip install -r requirements.txt
 ```
 
+Remember to change the directory to your data location!
+
 ### Running the Notebook
 
 Open the Jupyter Notebook:

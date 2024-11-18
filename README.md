@@ -57,7 +57,7 @@ Follow the cells in the notebook to explore data analysis, visualization, and mo
 ## 🔍 Project Structure
 
 ```plaintext
-├── data_with_everything.ipynb       # Main analysis notebook
+├── code.ipynb                       # Main analysis notebook
 ├── README.md                        # Project documentation
 ├── data/                            # Directory containing raw and cleaned data
 └── figures/                         # Directory for visual outputs

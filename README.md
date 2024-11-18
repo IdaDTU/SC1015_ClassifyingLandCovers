@@ -32,7 +32,7 @@ The dataset used for this project is the **Urban Land Cover** dataset from the [
 
 - **Python 3.10**
 - **Jupyter Notebook**
-- **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`
+- **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, 'seaborn'
 
 ## 🚀 Getting Started
 
@@ -83,6 +83,7 @@ The EDA provided insights into the distribution of land cover classes and key fe
 Key findings:
 - The dataset contains an imbalance in class distribution, with fewer samples for certain categories like `pool` and `soil`.
 - Visualizations revealed distinct patterns between classes, aiding feature selection.
+- Most imporant variables for determing class is 'Mean_R' 'Mean_NIR','Bright' and 'NDVI' (ordered) 
 
 ## 🤖 Machine Learning Techniques
 

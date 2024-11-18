@@ -1,7 +1,7 @@
 
 # 🌍 Urban Land Cover Classification Project
 
-This repository contains a machine learning project focused on classifying urban land cover types using high-resolution aerial imagery. The project utilizes a dataset from the UCI Machine Learning Repository, employing multiple classification algorithms to analyze and predict land cover categories. The aim is to inform sustainable urban development and improve climate adaptation strategies.
+This repository contains a machine learning project focused on classifying urban land cover types using high-resolution aerial imagery. The project utilizes a dataset from the UCI Machine Learning Repository, employing multiple classification algorithms to analyze and predict land cover categories. The aim is to inform sustainable urban development and improve climate adaptation strategies (https://archive.ics.uci.edu/dataset/295/urban+land+cover).
 
 ## 📋 Project Overview
 
